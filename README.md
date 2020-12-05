@@ -63,6 +63,7 @@ https://github.com/rstarkov/TankIconMaker/ <br>
 - use github for source control / pull before push!
 - download the new version from the source (link above).
 - copy files from the downloaded archve into the [TankIconMaker-PORTABLE] folder
+- inside this folder: rename the folder with the program´s versions number to [_currentVersion_DATE]. (eg: "_v061-b204_2020-11-25"). yes, with an underline at the beginning to be on first place in folderview with alphabetical order.
 - push changes to github <br>
  <br>
  
