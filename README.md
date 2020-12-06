@@ -70,7 +70,7 @@ https://github.com/rstarkov/TankIconMaker/ <br>
 ### Use TIM
 #### updating icons:
 - just start the [TankIconMaker.exe] directly from the github repo! (dont forget to pull first if anyone made changes)
-- the config files for icons are already loaded into TIM. 
+- the config files for icons are already loaded into TIM -> after creation/import they are hardcoded into [TankIconMaker2.Settings.xml]. 
 - press bulk export into folder, select a folder and the configs you want to create.
 <br>
 
@@ -81,7 +81,7 @@ https://github.com/rstarkov/TankIconMaker/ <br>
 - start TIM from repo
 - import config from file into TIM
 - copy previously imported file into the designed config folder [Carousel/Contour/TechtreeIconsConfigs] for source control
-- push changes to the configurationfile folder and the TIM configuration file to Github when you are done
+- push changes to the configurationfile folder and the TIM configuration file [TankIconMaker2.Settings.xml] to Github when you are done
 
 
 ##### create a new config: 
