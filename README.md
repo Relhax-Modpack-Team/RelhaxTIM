@@ -4,7 +4,7 @@
 - a folder called [ContourIconsConfigs].  Here is where the configs for the contouricons will be stored. 
 - a folder called [TechtreeIconsConfigs].  Here is where the configs for the techtreeicons will be stored.
 - a folder called [TankIconMaker-PORTABLE] with the actual program (+ hardcoded cfgs in program-config-file)
-------------------------------------------------------------------- <br>
+------------------------------------------------------------------- 
  <br>
  
 # What is TIM? 
@@ -14,7 +14,7 @@ We use this program to update/create following mods:
 - TankIcons_Carousel
 - TankIcons_TechTree
 -------------------------------------------------------------------
-------------------------------------------------------------------- <br>
+------------------------------------------------------------------- 
  <br> 
  
 # "Tank Icon Maker" Description:
@@ -53,7 +53,7 @@ https://roman.st/TankIconMaker?lang=ru
 https://github.com/rstarkov/TankIconMaker/ <br>
 
 -------------------------------------------------------------------
-------------------------------------------------------------------- <br>
+------------------------------------------------------------------- 
  <br>
  
 # HOW-TO 
