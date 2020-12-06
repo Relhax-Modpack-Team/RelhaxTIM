@@ -66,14 +66,30 @@ https://github.com/rstarkov/TankIconMaker/ <br>
 - inside this folder: rename the folder with the program´s versions number to [_currentVersion_DATE]. (eg: "_v061-b204_2020-11-25"). yes, with an underline at the beginning to be on first place in folderview with alphabetical order.
 - push changes to github <br>
  <br>
- 
+
 ### Use TIM
-- just start the [TankIconMaker.exe] directly from the github repo!
+#### updating icons:
+- just start the [TankIconMaker.exe] directly from the github repo! (dont forget to pull first if anyone made changes)
 - the config files for icons are already loaded into TIM. 
-  just press bulk export into folder, select a folder and the configs you want to create.
-- adding new configs:  either create a new one or use the import function.  <br>
+- press bulk export into folder, select a folder and the configs you want to create.
 <br>
 
-#### Source control:
-- if a config was imported:  <br> copy the config file into the designed config folder [Carousel/Contour/TechtreeIconsConfigs]
-- if a config was created new: <br> export the config file to the designed config folder [Carousel/Contour/TechtreeIconsConfigs]
+#### making changes:
+
+##### import configs:
+- pull Git
+- start TIM from repo
+- import config from file into TIM
+- copy previously imported file into the designed config folder [Carousel/Contour/TechtreeIconsConfigs] for source control
+- push changes to the configurationfile folder and the TIM configuration file to Github when you are done
+
+
+##### create a new config: 
+- pull Git
+- start TIM from repo
+- create, name and save your configuration with TIM
+- export your configuration file into the designed config folder [Carousel/Contour/TechtreeIconsConfigs] for source control
+- push changes to the configurationfile folder and the TIM configuration file to Github when you are done
+
+<br>
+<br>
