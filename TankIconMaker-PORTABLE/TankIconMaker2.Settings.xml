@@ -127,10 +127,10 @@
   </TranslationFormSettings>
   <LeftColumnWidth>609</LeftColumnWidth>
   <NameColumnWidth>232.72727272727275</NameColumnWidth>
-  <DisplayFilter>OneOfEach</DisplayFilter>
+  <DisplayFilter>All</DisplayFilter>
   <SaveToFolderPath>D:\01_DOWNLOADS\Neuer Ordner</SaveToFolderPath>
   <SaveToAtlas>F:\02_Gamez\World_of_Tanks\res_mods\1.5.1.1\gui\flash\atlases\BattleAtlas.png</SaveToAtlas>
-  <BulkSaveToFolderPath>C:\Users\elektrosmoker\OneDrive\RelhaxModpackDatabase\RelhaxWorkDir\Neuer Ordner</BulkSaveToFolderPath>
+  <BulkSaveToFolderPath>D:\01_DOWNLOADS\c</BulkSaveToFolderPath>
   <Background>:checkered</Background>
   <BackgroundCheckeredColor1>#C0C0C0</BackgroundCheckeredColor1>
   <BackgroundCheckeredColor2>#A0A0A0</BackgroundCheckeredColor2>
@@ -5303,7 +5303,7 @@
       </Layers>
       <ForumLink null="1" />
     </item>
-    <item>
+    <item refid="2">
       <Name>elektrosmoker_carousel_GoldPrem-PurpleSpecial-BlueCollect</Name>
       <Author>elektrosmoker</Author>
       <SavedByVersion>61</SavedByVersion>
@@ -8534,7 +8534,7 @@
       <ForumLink null="1" />
     </item>
     <item>
-      <Name>Golden Premium Tanks at Caroussel</Name>
+      <Name>Golden Premium Tanks at Caroussel (v1)</Name>
       <Author>Aslain</Author>
       <SavedByVersion>61</SavedByVersion>
       <PathTemplate>{IconsPath}\..\{TankId}{Ext}</PathTemplate>
@@ -8949,9 +8949,9 @@
                 <CountryItaly>#FFFFFF</CountryItaly>
                 <CountryNone>#FFFFFF</CountryNone>
                 <CategNormal>#FFFFFF</CategNormal>
-                <CategPremium>#56460E</CategPremium>
+                <CategPremium>#56460D</CategPremium>
                 <CategSpecial>#564000</CategSpecial>
-                <CategCollector>#FFFFFF</CategCollector>
+                <CategCollector>#56460D</CategCollector>
                 <Single>#FFFFFF</Single>
                 <TierNone>#FFFFFF</TierNone>
                 <Tier1>#FFFFFF</Tier1>
@@ -10881,7 +10881,7 @@
       </Layers>
       <ForumLink>http://forum.worldoftanks.ru/index.php?/topic/374544-hardicons-v074-%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B8-%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B0/</ForumLink>
     </item>
-    <item refid="2">
+    <item>
       <Name>J1mB0´s ReWorked</Name>
       <Author>elektrosmoker</Author>
       <SavedByVersion>61</SavedByVersion>

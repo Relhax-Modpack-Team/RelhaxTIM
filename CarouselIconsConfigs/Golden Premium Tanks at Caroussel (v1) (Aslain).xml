@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <item>
-  <Name>Golden Premium Tanks at Caroussel</Name>
+  <Name>Golden Premium Tanks at Caroussel (v1)</Name>
   <Author>Aslain</Author>
   <SavedByVersion>61</SavedByVersion>
   <PathTemplate>{IconsPath}\..\{TankId}{Ext}</PathTemplate>
@@ -415,9 +415,9 @@
             <CountryItaly>#FFFFFF</CountryItaly>
             <CountryNone>#FFFFFF</CountryNone>
             <CategNormal>#FFFFFF</CategNormal>
-            <CategPremium>#56460E</CategPremium>
+            <CategPremium>#56460D</CategPremium>
             <CategSpecial>#564000</CategSpecial>
-            <CategCollector>#FFFFFF</CategCollector>
+            <CategCollector>#56460D</CategCollector>
             <Single>#FFFFFF</Single>
             <TierNone>#FFFFFF</TierNone>
             <Tier1>#FFFFFF</Tier1>
