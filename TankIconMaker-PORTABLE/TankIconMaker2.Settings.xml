@@ -25,8 +25,8 @@
         <Maximized>False</Maximized>
       </item>
       <item key="1920x1080">
-        <Left>-8</Left>
-        <Top>157</Top>
+        <Left>455</Left>
+        <Top>180</Top>
         <Width>1390</Width>
         <Height>803</Height>
         <Maximized>False</Maximized>
@@ -91,9 +91,9 @@
       </item>
       <item key="1920x1080">
         <Left>1143</Left>
-        <Top>362</Top>
+        <Top>267</Top>
         <Width>607</Width>
-        <Height>415</Height>
+        <Height>623</Height>
         <Maximized>False</Maximized>
       </item>
     </DimensionsByRes>
@@ -127,10 +127,10 @@
   </TranslationFormSettings>
   <LeftColumnWidth>609</LeftColumnWidth>
   <NameColumnWidth>232.72727272727275</NameColumnWidth>
-  <DisplayFilter>Italy</DisplayFilter>
+  <DisplayFilter>All</DisplayFilter>
   <SaveToFolderPath>D:\01_DOWNLOADS\Neuer Ordner</SaveToFolderPath>
   <SaveToAtlas>F:\02_Gamez\World_of_Tanks\res_mods\1.5.1.1\gui\flash\atlases\BattleAtlas.png</SaveToAtlas>
-  <BulkSaveToFolderPath>D:\01_DOWNLOADS\1</BulkSaveToFolderPath>
+  <BulkSaveToFolderPath>D:\01_DOWNLOADS\choose_folder</BulkSaveToFolderPath>
   <Background>:checkered</Background>
   <BackgroundCheckeredColor1>#C0C0C0</BackgroundCheckeredColor1>
   <BackgroundCheckeredColor2>#A0A0A0</BackgroundCheckeredColor2>
