@@ -74,6 +74,28 @@ https://github.com/rstarkov/TankIconMaker/ <br>
 - press bulk export into folder, select a folder and the configs you want to create.
 <br>
 
+Step-by-step:
+- first pull repo
+- pic 1) go to the TIM folder 
+- pic 2)  start TIM
+- pic 3) if not automatically, choose your wot installation (or press "+" to add your game directory)
+- pic 4) click on "save as" and use the last option "haufenspeichern" (ger) / "bulk save to folder" (eng; or something similar)
+- pic 5) choose a folder on your harddisk
+- pic 6) choose the configs you want to create
+- pic 7) creating the mods is done
+- download the old file from our server. delete the image files from there and use the same folder structure to update the mod.
+<br>
+
+Pictures:
+
+ftp://bigmods.relhaxmodpack.com/Medias/Pictures/01_HowToPics/TIM/1_TIM_stepByStep.png
+ftp://bigmods.relhaxmodpack.com/Medias/Pictures/01_HowToPics/TIM/2_TIM_stepByStep.png
+ftp://bigmods.relhaxmodpack.com/Medias/Pictures/01_HowToPics/TIM/3_TIM_stepByStep.png
+ftp://bigmods.relhaxmodpack.com/Medias/Pictures/01_HowToPics/TIM/4_TIM_stepByStep.png
+ftp://bigmods.relhaxmodpack.com/Medias/Pictures/01_HowToPics/TIM/5_TIM_stepByStep.png
+ftp://bigmods.relhaxmodpack.com/Medias/Pictures/01_HowToPics/TIM/6_TIM_stepByStep.png
+ftp://bigmods.relhaxmodpack.com/Medias/Pictures/01_HowToPics/TIM/7_TIM_stepByStep.png
+
 #### making changes:
 
 ##### import configs:
