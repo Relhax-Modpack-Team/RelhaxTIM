@@ -6019,7 +6019,7 @@
       </Layers>
       <ForumLink>http://forum.worldoftanks.ru/index.php?/topic/40161-3d-%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B8-%D1%81-%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D1%8F%D0%BC%D0%B8-%D0%B8-%D0%B1%D0%B5%D0%B7/</ForumLink>
     </item>
-    <item refid="2">
+    <item>
       <Name>elektrosmoker_contour</Name>
       <Author>elektrosmoker</Author>
       <SavedByVersion>61</SavedByVersion>
@@ -8533,7 +8533,7 @@
       </Layers>
       <ForumLink null="1" />
     </item>
-    <item>
+    <item refid="2">
       <Name>Golden Premium Tanks at Caroussel (v1)</Name>
       <Author>Aslain</Author>
       <SavedByVersion>61</SavedByVersion>
@@ -8951,7 +8951,7 @@
                 <CategNormal>#FFFFFF</CategNormal>
                 <CategPremium>#56460D</CategPremium>
                 <CategSpecial>#564000</CategSpecial>
-                <CategCollector>#56460D</CategCollector>
+                <CategCollector>#FFFFFF</CategCollector>
                 <Single>#FFFFFF</Single>
                 <TierNone>#FFFFFF</TierNone>
                 <Tier1>#FFFFFF</Tier1>
