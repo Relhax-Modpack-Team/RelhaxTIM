@@ -88,13 +88,13 @@ Step-by-step:
 
 Pictures:
 
-http://bigmods.relhaxmodpack.com/Medias/Pictures/01_HowToPics/TIM/1_TIM_stepByStep.png
-http://bigmods.relhaxmodpack.com/Medias/Pictures/01_HowToPics/TIM/2_TIM_stepByStep.png
-http://bigmods.relhaxmodpack.com/Medias/Pictures/01_HowToPics/TIM/3_TIM_stepByStep.png
-http://bigmods.relhaxmodpack.com/Medias/Pictures/01_HowToPics/TIM/4_TIM_stepByStep.png
-http://bigmods.relhaxmodpack.com/Medias/Pictures/01_HowToPics/TIM/5_TIM_stepByStep.png
-http://bigmods.relhaxmodpack.com/Medias/Pictures/01_HowToPics/TIM/6_TIM_stepByStep.png
-http://bigmods.relhaxmodpack.com/Medias/Pictures/01_HowToPics/TIM/7_TIM_stepByStep.png
+![](http://bigmods.relhaxmodpack.com/Medias/Pictures/01_HowToPics/TIM/1_TIM_stepByStep.png)
+![](http://bigmods.relhaxmodpack.com/Medias/Pictures/01_HowToPics/TIM/2_TIM_stepByStep.png)
+![](http://bigmods.relhaxmodpack.com/Medias/Pictures/01_HowToPics/TIM/3_TIM_stepByStep.png)
+![](http://bigmods.relhaxmodpack.com/Medias/Pictures/01_HowToPics/TIM/4_TIM_stepByStep.png)
+![](http://bigmods.relhaxmodpack.com/Medias/Pictures/01_HowToPics/TIM/5_TIM_stepByStep.png)
+![](http://bigmods.relhaxmodpack.com/Medias/Pictures/01_HowToPics/TIM/6_TIM_stepByStep.png)
+![](http://bigmods.relhaxmodpack.com/Medias/Pictures/01_HowToPics/TIM/7_TIM_stepByStep.png)
 
 #### making changes:
 
