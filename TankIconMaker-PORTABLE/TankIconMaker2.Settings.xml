@@ -31,6 +31,13 @@
         <Height>803</Height>
         <Maximized>False</Maximized>
       </item>
+      <item key="5760x2160">
+        <Left>839.33333333333326</Left>
+        <Top>425.33333333333331</Top>
+        <Width>881.33333333333326</Width>
+        <Height>550</Height>
+        <Maximized>True</Maximized>
+      </item>
     </DimensionsByRes>
   </MainWindow>
   <AddWindow>
@@ -160,10 +167,13 @@
   <OsLingo>German</OsLingo>
   <DefaultPropertyAuthor>Wargaming</DefaultPropertyAuthor>
   <GameInstallations>
+    <item refid="0">
+      <path>S:\Games\World_of_Tanks</path>
+    </item>
     <item>
       <path>F:\World_of_Tanks</path>
     </item>
-    <item refid="0">
+    <item>
       <path>F:\World_of_Tanks</path>
     </item>
     <item>
