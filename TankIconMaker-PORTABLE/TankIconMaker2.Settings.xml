@@ -168,13 +168,13 @@
   <DefaultPropertyAuthor>Wargaming</DefaultPropertyAuthor>
   <GameInstallations>
     <item refid="0">
+      <path>F:\World_of_Tanks</path>
+    </item>
+    <item>
+      <path>F:\World_of_Tanks</path>
+    </item>
+    <item>
       <path>S:\Games\World_of_Tanks</path>
-    </item>
-    <item>
-      <path>F:\World_of_Tanks</path>
-    </item>
-    <item>
-      <path>F:\World_of_Tanks</path>
     </item>
     <item>
       <path>F:\02_Gamez\World_of_Tanks</path>
@@ -8543,7 +8543,7 @@
       </Layers>
       <ForumLink null="1" />
     </item>
-    <item refid="2">
+    <item>
       <Name>Golden Premium Tanks at Caroussel (v1)</Name>
       <Author>Aslain</Author>
       <SavedByVersion>61</SavedByVersion>
@@ -10891,7 +10891,7 @@
       </Layers>
       <ForumLink>http://forum.worldoftanks.ru/index.php?/topic/374544-hardicons-v074-%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B8-%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B0/</ForumLink>
     </item>
-    <item>
+    <item refid="2">
       <Name>J1mB0´s ReWorked</Name>
       <Author>elektrosmoker</Author>
       <SavedByVersion>61</SavedByVersion>
