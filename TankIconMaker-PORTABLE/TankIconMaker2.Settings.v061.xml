@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Settings>
-  <SavedByVersion>63</SavedByVersion>
+  <SavedByVersion>61</SavedByVersion>
   <MainWindow>
     <DimensionsByRes>
       <item key="3200x1080">
@@ -25,8 +25,8 @@
         <Maximized>False</Maximized>
       </item>
       <item key="1920x1080">
-        <Left>138</Left>
-        <Top>196</Top>
+        <Left>455</Left>
+        <Top>180</Top>
         <Width>1390</Width>
         <Height>803</Height>
         <Maximized>False</Maximized>
@@ -97,8 +97,8 @@
         <Maximized>False</Maximized>
       </item>
       <item key="1920x1080">
-        <Left>1284</Left>
-        <Top>420</Top>
+        <Left>1143</Left>
+        <Top>267</Top>
         <Width>607</Width>
         <Height>623</Height>
         <Maximized>False</Maximized>
@@ -137,7 +137,7 @@
   <DisplayFilter>All</DisplayFilter>
   <SaveToFolderPath>D:\01_DOWNLOADS\Neuer Ordner</SaveToFolderPath>
   <SaveToAtlas>F:\02_Gamez\World_of_Tanks\res_mods\1.5.1.1\gui\flash\atlases\BattleAtlas.png</SaveToAtlas>
-  <BulkSaveToFolderPath>D:\01_DOWNLOADS\c</BulkSaveToFolderPath>
+  <BulkSaveToFolderPath>D:\01_DOWNLOADS\choose_folder</BulkSaveToFolderPath>
   <Background>:checkered</Background>
   <BackgroundCheckeredColor1>#C0C0C0</BackgroundCheckeredColor1>
   <BackgroundCheckeredColor2>#A0A0A0</BackgroundCheckeredColor2>
@@ -185,7 +185,7 @@
     <item>
       <Name>APCR_NOOB classic</Name>
       <Author>APCR_NOOB</Author>
-      <SavedByVersion>63</SavedByVersion>
+      <SavedByVersion>61</SavedByVersion>
       <PathTemplate></PathTemplate>
       <BattleAtlasPathTemplate null="1" />
       <VehicleMarkersAtlasPathTemplate null="1" />
@@ -1169,7 +1169,7 @@
     <item>
       <Name>APCR_NOOB minimalistic_v2</Name>
       <Author>APCR_NOOB</Author>
-      <SavedByVersion>63</SavedByVersion>
+      <SavedByVersion>61</SavedByVersion>
       <PathTemplate></PathTemplate>
       <BattleAtlasPathTemplate null="1" />
       <VehicleMarkersAtlasPathTemplate null="1" />
@@ -1639,7 +1639,7 @@
     <item>
       <Name>Aslain</Name>
       <Author>Aslain</Author>
-      <SavedByVersion>63</SavedByVersion>
+      <SavedByVersion>61</SavedByVersion>
       <PathTemplate></PathTemplate>
       <BattleAtlasPathTemplate null="1" />
       <VehicleMarkersAtlasPathTemplate null="1" />
@@ -2445,7 +2445,7 @@
     <item>
       <Name>Black_Spy (Default Edition)</Name>
       <Author>Black_Spy</Author>
-      <SavedByVersion>63</SavedByVersion>
+      <SavedByVersion>61</SavedByVersion>
       <PathTemplate></PathTemplate>
       <BattleAtlasPathTemplate null="1" />
       <VehicleMarkersAtlasPathTemplate null="1" />
@@ -3757,7 +3757,7 @@
     <item>
       <Name>Black_Spy (Yasha Edition)</Name>
       <Author>Black_Spy</Author>
-      <SavedByVersion>63</SavedByVersion>
+      <SavedByVersion>61</SavedByVersion>
       <PathTemplate></PathTemplate>
       <BattleAtlasPathTemplate null="1" />
       <VehicleMarkersAtlasPathTemplate null="1" />
@@ -5069,7 +5069,7 @@
     <item>
       <Name>dirty20067</Name>
       <Author>dirty20067</Author>
-      <SavedByVersion>63</SavedByVersion>
+      <SavedByVersion>61</SavedByVersion>
       <PathTemplate></PathTemplate>
       <BattleAtlasPathTemplate null="1" />
       <VehicleMarkersAtlasPathTemplate null="1" />
@@ -5316,7 +5316,7 @@
     <item>
       <Name>elektrosmoker_carousel_GoldPrem-PurpleSpecial-BlueCollect</Name>
       <Author>elektrosmoker</Author>
-      <SavedByVersion>63</SavedByVersion>
+      <SavedByVersion>61</SavedByVersion>
       <PathTemplate>{IconsPath}\..\{TankId}{Ext}</PathTemplate>
       <BattleAtlasPathTemplate null="1" />
       <VehicleMarkersAtlasPathTemplate null="1" />
@@ -6032,7 +6032,7 @@
     <item>
       <Name>elektrosmoker_contour</Name>
       <Author>elektrosmoker</Author>
-      <SavedByVersion>63</SavedByVersion>
+      <SavedByVersion>61</SavedByVersion>
       <PathTemplate></PathTemplate>
       <BattleAtlasPathTemplate null="1" />
       <VehicleMarkersAtlasPathTemplate null="1" />
@@ -7831,7 +7831,7 @@
     <item>
       <Name>elektrosmoker_small</Name>
       <Author>elektrosmoker</Author>
-      <SavedByVersion>63</SavedByVersion>
+      <SavedByVersion>61</SavedByVersion>
       <PathTemplate></PathTemplate>
       <BattleAtlasPathTemplate null="1" />
       <VehicleMarkersAtlasPathTemplate null="1" />
@@ -8546,7 +8546,7 @@
     <item>
       <Name>Golden Premium Tanks at Caroussel (v1)</Name>
       <Author>Aslain</Author>
-      <SavedByVersion>63</SavedByVersion>
+      <SavedByVersion>61</SavedByVersion>
       <PathTemplate>{IconsPath}\..\{TankId}{Ext}</PathTemplate>
       <BattleAtlasPathTemplate null="1" />
       <VehicleMarkersAtlasPathTemplate null="1" />
@@ -9262,7 +9262,7 @@
     <item>
       <Name>Golden Premium Tanks at Caroussel SMALL</Name>
       <Author>Aslain</Author>
-      <SavedByVersion>63</SavedByVersion>
+      <SavedByVersion>61</SavedByVersion>
       <PathTemplate>{IconsPath}\..\small\{TankId}{Ext}</PathTemplate>
       <BattleAtlasPathTemplate null="1" />
       <VehicleMarkersAtlasPathTemplate null="1" />
@@ -9978,7 +9978,7 @@
     <item>
       <Name>gold_V2</Name>
       <Author>dirty20067</Author>
-      <SavedByVersion>63</SavedByVersion>
+      <SavedByVersion>61</SavedByVersion>
       <PathTemplate></PathTemplate>
       <BattleAtlasPathTemplate null="1" />
       <VehicleMarkersAtlasPathTemplate null="1" />
@@ -10156,7 +10156,7 @@
     <item>
       <Name>gold_V2</Name>
       <Author>mir</Author>
-      <SavedByVersion>63</SavedByVersion>
+      <SavedByVersion>61</SavedByVersion>
       <PathTemplate></PathTemplate>
       <BattleAtlasPathTemplate null="1" />
       <VehicleMarkersAtlasPathTemplate null="1" />
@@ -10334,7 +10334,7 @@
     <item>
       <Name>HARDicons</Name>
       <Author>Andrey_Hard</Author>
-      <SavedByVersion>63</SavedByVersion>
+      <SavedByVersion>61</SavedByVersion>
       <PathTemplate>{IconPath}\{TankId}{Ext}</PathTemplate>
       <BattleAtlasPathTemplate null="1" />
       <VehicleMarkersAtlasPathTemplate null="1" />
@@ -10894,7 +10894,7 @@
     <item refid="2">
       <Name>J1mB0´s ReWorked</Name>
       <Author>elektrosmoker</Author>
-      <SavedByVersion>63</SavedByVersion>
+      <SavedByVersion>61</SavedByVersion>
       <PathTemplate>{IconPath}\{TankId}{Ext}</PathTemplate>
       <BattleAtlasPathTemplate null="1" />
       <VehicleMarkersAtlasPathTemplate null="1" />
@@ -12132,7 +12132,7 @@
     <item>
       <Name>The Illusion</Name>
       <Author>theillusion</Author>
-      <SavedByVersion>63</SavedByVersion>
+      <SavedByVersion>61</SavedByVersion>
       <PathTemplate></PathTemplate>
       <BattleAtlasPathTemplate null="1" />
       <VehicleMarkersAtlasPathTemplate null="1" />
@@ -12338,7 +12338,7 @@
     <item>
       <Name>The Illusion_BIG</Name>
       <Author>theillusion</Author>
-      <SavedByVersion>63</SavedByVersion>
+      <SavedByVersion>61</SavedByVersion>
       <PathTemplate></PathTemplate>
       <BattleAtlasPathTemplate null="1" />
       <VehicleMarkersAtlasPathTemplate null="1" />
@@ -12544,7 +12544,7 @@
     <item>
       <Name>WIZARD'S roman</Name>
       <Author>yaya070</Author>
-      <SavedByVersion>63</SavedByVersion>
+      <SavedByVersion>61</SavedByVersion>
       <PathTemplate></PathTemplate>
       <BattleAtlasPathTemplate></BattleAtlasPathTemplate>
       <VehicleMarkersAtlasPathTemplate></VehicleMarkersAtlasPathTemplate>
