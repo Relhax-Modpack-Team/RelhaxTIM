@@ -25,8 +25,8 @@
         <Maximized>False</Maximized>
       </item>
       <item key="1920x1080">
-        <Left>138</Left>
-        <Top>196</Top>
+        <Left>258</Left>
+        <Top>33</Top>
         <Width>1390</Width>
         <Height>803</Height>
         <Maximized>False</Maximized>
@@ -97,8 +97,8 @@
         <Maximized>False</Maximized>
       </item>
       <item key="1920x1080">
-        <Left>1185</Left>
-        <Top>323</Top>
+        <Left>1020</Left>
+        <Top>98</Top>
         <Width>607</Width>
         <Height>623</Height>
         <Maximized>False</Maximized>
@@ -137,7 +137,7 @@
   <DisplayFilter>All</DisplayFilter>
   <SaveToFolderPath>D:\01_DOWNLOADS\Neuer Ordner</SaveToFolderPath>
   <SaveToAtlas>F:\02_Gamez\World_of_Tanks\res_mods\1.5.1.1\gui\flash\atlases\BattleAtlas.png</SaveToAtlas>
-  <BulkSaveToFolderPath>D:\01_DOWNLOADS\1.12.1.0</BulkSaveToFolderPath>
+  <BulkSaveToFolderPath>D:\OneDrive\RelhaxModpackDatabase\RelhaxWorkDir</BulkSaveToFolderPath>
   <Background>:checkered</Background>
   <BackgroundCheckeredColor1>#C0C0C0</BackgroundCheckeredColor1>
   <BackgroundCheckeredColor2>#A0A0A0</BackgroundCheckeredColor2>
