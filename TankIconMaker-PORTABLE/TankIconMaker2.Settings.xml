@@ -137,7 +137,7 @@
   <DisplayFilter>All</DisplayFilter>
   <SaveToFolderPath>D:\01_DOWNLOADS\Neuer Ordner</SaveToFolderPath>
   <SaveToAtlas>F:\02_Gamez\World_of_Tanks\res_mods\1.5.1.1\gui\flash\atlases\BattleAtlas.png</SaveToAtlas>
-  <BulkSaveToFolderPath>D:\OneDrive\RelhaxModpackDatabase\RelhaxWorkDir</BulkSaveToFolderPath>
+  <BulkSaveToFolderPath>D:\01_DOWNLOADS\1</BulkSaveToFolderPath>
   <Background>:checkered</Background>
   <BackgroundCheckeredColor1>#C0C0C0</BackgroundCheckeredColor1>
   <BackgroundCheckeredColor2>#A0A0A0</BackgroundCheckeredColor2>
