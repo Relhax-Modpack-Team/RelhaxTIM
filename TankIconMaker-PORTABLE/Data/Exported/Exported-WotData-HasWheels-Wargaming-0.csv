@@ -1,10 +1,10 @@
 WOT-DATA,2
 {{EN}},"Contains ""*"" for wheeled vehicles, empty for the rest of the vehicle"
 {{RU}},"Содержит ""*"" для колесной техники, пусто для остальной техники."
-france-F100_Panhard_EBR_90,*,#994
-france-F106_Panhard_EBR_75_Mle1954,*,#994
-france-F107_Hotchkiss_EBR,*,#994
-france-F108_Panhard_EBR_105,*,#994
-france-F109_AMD_Panhard_178B,*,#994
-france-F110_Lynx_6x6,*,#994
-france-F111_AM39_Gendron_Somua,*,#994
+france-F100_Panhard_EBR_90,*,#1031
+france-F106_Panhard_EBR_75_Mle1954,*,#1031
+france-F107_Hotchkiss_EBR,*,#1031
+france-F108_Panhard_EBR_105,*,#1031
+france-F109_AMD_Panhard_178B,*,#1031
+france-F110_Lynx_6x6,*,#1031
+france-F111_AM39_Gendron_Somua,*,#1031
