@@ -1,0 +1,946 @@
+WOT-DATA,2
+china-Ch01_Type59, medium premium
+china-Ch01_Type59_Gold, medium premium
+china-Ch02_Type62, light premium
+china-Ch03_WZ_111_A, heavy premium
+china-Ch03_WZ-111, heavy premium
+china-Ch04_T34_1, medium
+china-Ch04_T34_1_training, medium premium
+china-Ch05_T34_2, medium
+china-Ch06_Renault_NC31, light
+china-Ch06_Renault_NC31_bot,light premium
+china-Ch07_Vickers_MkE_Type_BT26, drum light
+china-Ch08_Type97_Chi_Ha, light
+china-Ch08_Type97_Chi_Ha_bootcamp, light premium
+china-Ch09_M5, light
+china-Ch10_IS2, heavy
+china-Ch11_110, heavy
+china-Ch11_110_IGR, heavy
+china-Ch12_111_1_2_3,heavy
+china-Ch12_111_1_2_3_FL,heavy premium
+china-Ch14_T34_3, medium premium
+china-Ch15_59_16, light
+china-Ch16_WZ_131, light
+china-Ch17_WZ131_1_WZ132, light
+china-Ch17_WZ131_1_WZ132_IGR, light
+china-Ch18_WZ-120, medium
+china-Ch19_121, medium
+china-Ch19_121_IGR, medium
+china-Ch20_Type58, medium
+china-Ch20_Type58_bootcamp, medium premium
+china-Ch21_T34, medium
+china-Ch22_113, heavy
+china-Ch22_113_Beijing_Opera, heavy premium
+china-Ch22_113P, heavy premium
+china-Ch23_112, heavy premium
+china-Ch23_112_FL, heavy premium
+china-Ch24_Type64, light premium
+china-Ch25_121_mod_1971B, medium premium
+china-Ch26_59_Patton, medium premium
+china-Ch28_WZ_132A, light
+china-Ch29_Type_62C_prot, light
+china-Ch30_T-26G_FT, destroyer
+china-Ch31_M3G_FT, destroyer
+china-Ch32_SU-76G_FT, destroyer
+china-Ch33_60G_FT, destroyer
+china-Ch34_WZ131G_FT, destroyer
+china-Ch35_T-34-2G_FT, destroyer
+china-Ch36_WZ111_1G_FT, destroyer
+china-Ch37_WZ111G_FT, destroyer
+china-Ch38_WZ113G_FT, destroyer
+china-Ch39_WZ120_1G_FT, destroyer premium
+china-Ch39_WZ120_1G_FT_FL,destroyer premium
+china-Ch40_WZ120G_FT, destroyer premium
+china-Ch41_WZ_111_5A, heavy
+china-Ch41_WZ_111_5A_bob, heavy premium
+china-Ch41_WZ_111_QL, heavy premium
+china-Ch42_WalkerBulldog_M41D, light premium
+china-Ch43_WZ_122_2,medium premium
+china-Ch44_114_SP2,destroyer premium
+china-Ch46_113_140,heavy premium
+czech-Cz01_Skoda_T40, medium premium
+czech-Cz02_TVP_T50, drum medium
+czech-Cz03_LT_vz35, light
+czech-Cz04_T50_51,  drum medium
+czech-Cz05_T34_100, medium
+czech-Cz06_Kolohousenka, light
+czech-Cz07_TVP_46, medium
+czech-Cz08_T_25, drum medium
+czech-Cz09_T_24, medium
+czech-Cz10_LT_vz38, drum light
+czech-Cz11_V_8_H, medium
+czech-Cz13_T_27, drum medium premium
+czech-Cz14_Skoda_T-56,drum heavy premium
+czech-Cz15_Skoda_T-45_Prem,heavy premium
+czech-Cz16_TNH_T_vz51,drum heavy
+czech-Cz17_Vz_55,drum heavy
+czech-Cz18_TNH_105_1000,heavy
+czech-Cz19_Vz_44_1,heavy
+france-F01_RenaultFT, drum light
+france-F01_RenaultFT_bot, drum light premium
+france-F02_D1, light
+france-F03_D2, medium
+france-F04_B1, heavy
+france-F04_B1_bootcamp, heavy premium
+france-F05_BDR_G1B, heavy
+france-F06_ARL_44, heavy
+france-F07_AMX_M4_1945, heavy
+france-F08_AMX_50_100, Drum heavy
+france-F08_AMX_50_100_IGR, Drum heavy
+france-F09_AMX_50_120, Drum heavy
+france-F10_AMX_50B, Drum heavy
+france-F10_AMX_50B_fallout, Drum heavy premium
+france-F100_Panhard_EBR_90, light
+france-F106_Panhard_EBR_75_Mle1954, drum light premium
+france-F107_Hotchkiss_EBR, light
+france-F108_Panhard_EBR_105, light
+france-F109_AMD_Panhard_178B, light
+france-F11_Renault_G1R, medium
+france-F110_Lynx_6x6, light
+france-F111_AM39_Gendron_Somua, light premium
+france-F112_M10_RBFM, destroyer premium
+france-F113_Bretagne_Panther, medium premium
+france-F114_Projet_4_1, drum medium premium
+france-F115_Lorraine_50t,heavy premium
+france-F116_Bat_Chatillon_Bourrasque, drum medium premium
+france-F117_Alt_Proto_AMX_30,medium premium
+france-F12_Hotchkiss_H35, light
+france-F13_AMX38, light
+france-F14_AMX40, light
+france-F15_AMX_12t, Drum light
+france-F16_AMX_13_75, Drum light
+france-F17_AMX_13_90, Drum light
+france-F17_AMX_13_90_Halloween_event,light
+france-F17_AMX_13_90_IGR, Drum light
+france-F18_Bat_Chatillon25t, Drum medium
+france-F18_Bat_Chatillon25t_IGR, Drum medium
+france-F19_Lorraine40t, Drum medium
+france-F20_RenaultBS, artillery
+france-F21_Lorraine39_L_AM, artillery
+france-F22_AMX_105AM, artillery
+france-F23_AMX_13F3AM, artillery
+france-F23_AMX_13F3AM_MapsTraining_Dummy_SPG_2,artillery
+france-F24_Lorraine155_50, artillery
+france-F25_Lorraine155_51, artillery
+france-F27_FCM_36Pak40, destroyer premium
+france-F28_105_leFH18B2, artillery premium
+france-F28_105_leFH18B2_IGR, artillery premium
+france-F30_RenaultFT_AC, destroyer
+france-F32_Somua_Sau_40, destroyer
+france-F33_S_35CA, destroyer
+france-F33_S_35CA_IGR, destroyer
+france-F34_ARL_V39, destroyer
+france-F35_AMX_AC_Mle1946, destroyer
+france-F36_AMX_AC_Mle1948, drum destroyer
+france-F36_AMX_AC_Mle1948_IGR, drum destroyer
+france-F37_AMX50_Foch, drum destroyer
+france-F38_Bat_Chatillon155_58, Drum artillery
+france-F42_AMR_35,light premium
+france-F43_AMC_35_SH,drum medium premium
+france-F44_Somua_S35, medium
+france-F49_RenaultR35, light
+france-F50_FCM36_20t, light
+france-F52_RenaultUE57, destroyer
+france-F62_ELC_AMX, light
+france-F62_ELC_AMX_IGR, light
+france-F64_AMX_50Fosh_B, Drum destroyer
+france-F64_AMX_50Fosh_155, Drum destroyer premium
+france-F65_FCM_50t, heavy premium
+france-F66_AMX_Ob_Am105, artillery
+france-F67_Bat_Chatillon155_55, artillery
+france-F68_AMX_Chasseur_de_char_46, medium premium
+france-F69_AMX13_57_100, drum light premium
+france-F69_AMX13_57_100_GrandFinal, drum light premium
+france-F70_SARL42, medium
+france-F71_AMX_30_prototype, medium
+france-F71_AMX_30_prototype_HW_bot,medium
+france-F72_AMX_30,medium
+france-F72_AMX_30_HW_bot, medium
+france-F73_M4A1_Revalorise, medium premium
+france-F73_M4A1_Revalorise_FL, medium premium
+france-F73_M4A1_Revalorise_HW_bot,medium
+france-F74_AMX_M4_1949, heavy premium
+france-F74_AMX_M4_1949_FL, heavy premium
+france-F74_AMX_M4_1949_HW_bot,heavy
+france-F74_AMX_M4_1949_Liberte, heavy premium
+france-F75_Char_de_25t, drum medium
+france-F81_Char_de_65t, heavy
+france-F82_AMX_M4_Mle1949_Ter,heavy
+france-F82_AMX_M4_Mle1949_Ter_HW_bot, heavy
+france-F83_AMX_M4_Mle1949_Bis,heavy
+france-F83_AMX_M4_Mle1949_Bis_FL,heavy premium
+france-F83_AMX_M4_Mle1949_Bis_HW_bot,heavy
+france-F84_Somua_SM, drum heavy premium
+france-F85_M4A1_FL10, drum medium premium
+france-F87_Batignolles-Chatillon_12t, Drum light
+france-F88_AMX_13_105, Drum light
+france-F89_Canon_dassaut_de_105, destroyer premium
+france-F97_ELC_EVEN_90, Drum light premium
+france-F97_ELC_EVEN_90_FL,drum light premium
+germany-Env_Artillery,artillery
+germany-G00_Bomber_Hell,light
+germany-G00_Bomber_SH,light premium
+germany-G00_K_bomber__HW_21_AI,light
+germany-G02_Hummel, artillery
+germany-G03_PzV_Panther, medium
+germany-G03_PzV_Panther_bootcamp,medium
+germany-G03_PzV_Panther_IGR, medium 
+germany-G03_PzV_Panther_training, medium premium
+germany-G04_PzVI_Tiger_I, heavy
+germany-G04_PzVI_Tiger_I_IGR, heavy
+germany-G04_PzVI_Tiger_I_MapsTraining_Player_HT_2,heavy
+germany-G04_PzVI_Tiger_IA, heavy
+germany-G05_StuG_40_AusfG, destroyer
+germany-G05_StuG_40_AusfG_IGR, destroyer
+germany-G06_PzII, Drum light
+germany-G06_PzII_bot, Drum light premium
+germany-G07_Pz35t, drum light
+germany-G08_Pz38t, light
+germany-G08_Pz38t_bootcamp, light premium
+germany-G09_Hetzer, destroyer
+germany-G09_Hetzer_MapsTraining_Dummy_ATSPG_1,destroyer
+germany-G10_PzIII_AusfJ, medium
+germany-G10_PzIII_AusfJ_training, medium premium
+germany-G100_Gtraktor_Krupp, medium premium
+germany-G101_StuG_III, destroyer
+germany-G102_Pz_III, light
+germany-G102_Pz_III_bootcamp, light premium
+germany-G103_RU_251, light
+germany-G104_Stug_IV, destroyer premium
+germany-G105_T-55_NVA_DDR, medium premium
+germany-G106_PzKpfwPanther_AusfF, medium premium
+germany-G107_PzKpfwIII_AusfK, medium premium
+germany-G108_PzKpfwII_AusfD, drum light premium
+germany-G109_Steyr_WT, destroyer premium
+germany-G11_Bison_I, artillery
+germany-G110_Typ_205, heavy
+germany-G112_KanonenJagdPanzer, destroyer premium
+germany-G112_KanonenJagdPanzer_105, destroyer premium
+germany-G113_SP_I_C, light
+germany-G114_Rheinmetall_Skorpian, destroyer premium
+germany-G114_Rheinmetall_Skorpian_HELL,destroyer
+germany-G114_Skorpian, destroyer premium
+germany-G115_Typ_205_4_Jun, heavy premium
+germany-G115_Typ_205B, heavy
+germany-G116_Turan_III_prot, medium premium
+germany-G117_Toldi_III, light premium
+germany-G117_Toldi_III_bootcamp, light premium
+germany-G118_VK4503, heavy premium
+germany-G119_Panzer58, medium premium
+germany-G119_Panzer58_BF, medium premium
+germany-G119_Panzer58_FL, medium premium
+germany-G119_Pz58_Mutz, medium premium
+germany-G12_Ltraktor, drum light
+germany-G12_Ltraktor_bot, drum light premium
+germany-G120_M41_90, light premium
+germany-G120_M41_90_GrandFinal, light premium
+germany-G121_Grille_15_L63, destroyer
+germany-G122_VK6501H, heavy premium
+germany-G125_Spz_57_Rh, light
+germany-G126_HWK_12, light
+germany-G13_VK3001H, medium
+germany-G134_PzKpfw_VII, heavy
+germany-G136_Tiger_131, heavy premium
+germany-G137_PzVI_Tiger_217, heavy premium
+germany-G138_VK168_02, heavy premium
+germany-G138_VK168_02_Mauerbrecher, heavy premium
+germany-G139_MKA, light premium
+germany-G140_HWK_30, light premium
+germany-G141_VK7501K, heavy premium
+germany-G142_M48RPz, medium premium
+germany-G142_M48RPz_HW_bot,medium
+germany-G143_E75_TS, heavy premium
+germany-G144_Kpz_50t,medium premium
+germany-G146_E100_Hell_Boss,heavy
+germany-G147_Kunze_Panzer,medium premium
+germany-G15_VK3601H, heavy
+germany-G151_Pz_Sfl_IC,drum destroyer premium
+germany-G154_Kpz_07_RH,medium premium
+germany-G158_VK2801_105_SPXXI,light premium
+germany-G16_PzVIB_Tiger_II, heavy
+germany-G16_PzVIB_Tiger_II_F, heavy premium
+germany-G16_PzVIB_Tiger_II_IGR, heavy
+germany-G16_PzVIB_Tiger_II_training, heavy premium
+germany-G160_Pz_Kpfw_35_R_mit_T_26_Turm,light premium
+germany-G161_Pz_Kpfw_M15_38_t,light premium
+germany-G17_JagdPzIV, destroyer
+germany-G18_JagdPanther, destroyer
+germany-G19_Wespe, artillery
+germany-G20_Marder_II, destroyer
+germany-G21_PanzerJager_I, destroyer
+germany-G21_PanzerJager_I_bootcamp, destroyer premium
+germany-G22_Sturmpanzer_II, artillery
+germany-G23_Grille,artillery
+germany-G24_VK3002DB, medium
+germany-G24_VK3002DB_SH, medium premium
+germany-G25_PzII_Luchs, drum light
+germany-G25_PzII_Luchs_HELL,light
+germany-G25_PzII_Luchs_HELL_HALL,light
+germany-G26_VK1602, light
+germany-G27_VK3001P, heavy
+germany-G28_PzIII_IV, medium
+germany-G32_PzV_PzIV, medium premium
+germany-G32_PzV_PzIV_ausf_Alfa, medium premium
+germany-G32_PzV_PzIV_ausf_Alfa_CN, medium premium
+germany-G32_PzV_PzIV_CN, medium premium
+germany-G33_H39_captured, light premium
+germany-G34_S35_captured, medium premium
+germany-G35_B-1bis_captured, heavy premium
+germany-G36_PzII_J, drum light premium
+germany-G37_Ferdinand,destroyer
+germany-G37_Ferdinand_FL, destroyer premium
+germany-G37_Ferdinand_IGR, destroyer
+germany-G39_Marder_III, destroyer
+germany-G40_Nashorn, destroyer
+germany-G40_Nashorn_MapsTraining_Dummy_ATSPG_2,destroyer
+germany-G41_DickerMax, destroyer premium
+germany-G42_Maus, heavy
+germany-G42_Maus_IGR, heavy
+germany-G43_Sturer_Emil, destroyer
+germany-G44_JagdTiger, destroyer
+germany-G44_JagdTiger_FL,destroyer premium
+germany-G44_JagdTigerH, destroyer premium
+germany-G45_G_Tiger, artillery
+germany-G46_T-25, medium premium
+germany-G48_E-25, destroyer premium
+germany-G48_E-25_IGR, destroyer premium
+germany-G49_G_Panther, artillery
+germany-G50_T-15, light premium
+germany-G51_Lowe, heavy premium
+germany-G51_Lowe_FL, heavy premium
+germany-G52_Pz38_NA, light
+germany-G53_PzI, Drum light
+germany-G54_E-50, medium
+germany-G54_E-50_FL,medium premium
+germany-G54_E-50_Hall_minion, medium
+germany-G55_E-75, heavy
+germany-G56_E-100, heavy
+germany-G57_PzVI_Tiger_P, heavy
+germany-G57_PzVI_Tiger_P_HW_bot, heavy
+germany-G58_VK4502P, heavy
+germany-G58_VK4502P_HW_bot, heavy
+germany-G58_VK4502P7, heavy premium
+germany-G61_G_E, artillery
+germany-G63_PzI_ausf_C, Drum light
+germany-G64_Panther_II, medium
+germany-G64_Panther_II_Hall_minion,medium
+germany-G64_Panther_II_IGR,medium
+germany-G65_JagdTiger_SdKfz_185, destroyer premium
+germany-G65_JagdTiger_SdKfz_185_IGR, destroyer premium
+germany-G66_VK2801, light
+germany-G67_VK4502A, heavy
+germany-G67_VK4502A_HW_bot, heavy
+germany-G70_PzIV_Hydro, medium premium
+germany-G71_JagdPantherII, destroyer
+germany-G72_JagdPz_E100, destroyer
+germany-G73_E50_Ausf_M, medium
+germany-G73_E50_Ausf_M_Hall_minion, medium
+germany-G76_Pz_Sfl_IVc, destroyer
+germany-G77_PzIV_Schmalturm, medium premium
+germany-G78_Panther_M10, medium premium
+germany-G79_Pz_IV_AusfGH, medium premium
+germany-G80_Pz_IV_AusfD, medium
+germany-G80_Pz_IV_AusfD_bootcamp, medium premium
+germany-G81_Pz_IV_AusfH, medium
+germany-G81_Pz_IV_AusfH_GuP,medium premium
+germany-G82_Pz_II_AusfG, Drum light
+germany-G83_Pz_IV_AusfA, medium
+germany-G85_Auf_Panther, light premium
+germany-G85_Aufklarungspanzer_V, light premium
+germany-G86_VK2001DB, medium
+germany-G87_VK3002DB_V1, medium
+germany-G88_Indien_Panzer, medium
+germany-G88_Indien_Panzer_HW_bot, medium
+germany-G89_Leopard1, medium
+germany-G89_Leopard1_bob,medium premium
+germany-G90_DW_II, heavy
+germany-G90_DW_II_MapsTraining_Dummy_HT_1,heavy
+germany-G91_Pro_Ag_A, medium
+germany-G92_VK7201, heavy premium
+germany-G93_GW_Mk_VIe, artillery
+germany-G94_GW_Tiger_P, artillery
+germany-G95_Pz_Sfl_IVb, artillery
+germany-G96_VK3002M, medium
+germany-G97_Waffentrager_IV, destroyer
+germany-G97_Waffentrager_IV_HW_bot, destroyer
+germany-G98_Waffentrager_E100, drum destroyer
+germany-G98_Waffentrager_E100_P, drum destroyer premium
+germany-G99_RhB_Waffentrager, destroyer
+germany-G99_RhB_Waffentrager_HW_bot, destroyer
+italy-It03_M15_42,medium
+italy-It04_Fiat_3000,light
+italy-It05_Carro_L6_40, drum light
+italy-It06_M14_41,medium
+italy-It07_P26_40,medium
+italy-It08_Progetto_M40_mod_65, drum medium
+italy-It08_Progetto_M40_mod_65_bob, drum medium premium
+italy-It09_P43_ter,medium
+italy-It09_P43_ter_HELL,medium
+italy-It10_P43_bis,medium
+italy-It10_P43_bis_HELL,medium
+italy-It11_P43,medium
+italy-It12_Prototipo_Standard_B, drum medium
+italy-It13_Progetto_M35_mod_46, drum medium premium
+italy-It14_P44_Pantera, drum medium
+italy-It14_P44_Pantera_HELL, drum medium
+italy-It15_Rinoceronte, drum heavy
+italy-It16_Carro_d_assalto_P88,heavy
+italy-It17_Progetto_CC55_mod_54, drum heavy
+italy-It18_Progetto_C45_mod_71, drum heavy premium
+italy-It19_Progetto_C50_mod_66, drum heavy
+italy-It19_Progetto_C50_mod_66_hw21,heavy
+italy-It20_Carro_Combattimento_45t, drum medium premium
+japan-J01_NC27, light
+japan-J01_NC27_bot, light premium
+japan-J02_Te_Ke, light premium
+japan-J03_Ha_Go, light
+japan-J04_Ke_Ni, light
+japan-J04_Ke_Ni_bootcamp, light premium
+japan-J05_Ke_Ni_B, light premium
+japan-J06_Ke_Ho, light
+japan-J07_Chi_Ha, light
+japan-J08_Chi_Nu, medium
+japan-J09_Chi_He, medium
+japan-J10_Chi_To, medium
+japan-J11_Chi_Ri, drum medium
+japan-J11_Chi_Ri_IGR, drum medium
+japan-J12_Chi_Nu_Kai, medium premium
+japan-J13_STA_1, medium
+japan-J13_STA_1_IGR, medium
+japan-J14_Type_61, medium
+japan-J15_Chi_Ni, medium
+japan-J16_ST_B1, medium
+japan-J16_ST_B1_IGR, medium
+japan-J18_STA_2_3, medium premium
+japan-J19_Tiger_I_Jpn, heavy premium
+japan-J20_Type_2605, heavy
+japan-J21_Type_91, heavy
+japan-J22_Type_95, heavy
+japan-J22_Type_95_bootcamp, heavy premium
+japan-J23_Mi_To, heavy
+japan-J24_Mi_To_130_tons, heavy
+japan-J25_Type_4, heavy
+japan-J26_Type_89, medium
+japan-J27_O_I_120, heavy
+japan-J28_O_I_100, heavy
+japan-J29_Nameless, heavy premium
+japan-J30_Edelweiss, medium premium
+poland-Pl01_TKS_20mm, drum light premium
+poland-Pl03_PzV_Poland, medium premium
+poland-Pl05_50TP_Tyszkiewicza,heavy
+poland-Pl05_50TP_Tyszkiewicza_HELL,heavy
+poland-Pl06_10TP, light
+poland-Pl07_14TP, light
+poland-Pl08_50TP_prototyp, heavy premium
+poland-Pl09_7TP, light
+poland-Pl10_40TP_Habicha, medium
+poland-Pl10_40TP_Habicha_HELL, medium
+poland-Pl11_45TP_Habicha, heavy
+poland-Pl11_45TP_Habicha_HELL, heavy
+poland-Pl12_25TP_KSUST_II, medium
+poland-Pl13_53TP_Markowskiego, heavy
+poland-Pl13_53TP_Markowskiego_HELL, heavy
+poland-Pl14_4TP, light
+poland-Pl15_60TP_Lewandowskiego, heavy
+poland-Pl16_T34_85_Rudy,medium premium
+poland-Pl17_DS_PZlnz,medium
+poland-Pl18_BUGI,medium
+poland-Pl18_BUGI_HW_bot,medium
+poland-Pl19_CS_52_LIS,medium premium
+poland-Pl20_CS_44,medium
+poland-Pl20_CS_44_HW_bot,medium
+poland-Pl21_CS_63,medium
+poland-Pl22_CS_59,medium
+poland-Pl23_CS_53,medium
+poland-Pl23_CS_53_HW_bot,medium
+sweden-S01_Strv_74_A2, drum medium premium
+sweden-S02_Strv_M42, medium
+sweden-S03_Strv_M38, light
+sweden-S04_Lago_I, medium
+sweden-S05_Strv_M21_29, drum light
+sweden-S06_Ikv_90_Typ_B_Bofors,destroyer
+sweden-S07_Strv_74, medium
+sweden-S08_Ikv_65_Alt_2, destroyer
+sweden-S09_L_120_TD, destroyer
+sweden-S10_Strv_103_0_Series_FL,destroyer premium
+sweden-S10_Strv_103_0_Series,destroyer
+sweden-S11_Strv_103B, destroyer
+sweden-S12_Strv_M40, light
+sweden-S13_Leo, medium
+sweden-S13_Leo_HELL, medium
+sweden-S14_Ikv_103, destroyer
+sweden-S15_L_60, drum light premium
+sweden-S16_Kranvagn, drum heavy
+sweden-S16_Kranvagn_bob,drum heavy premium
+sweden-S17_EMIL_1952_E2, drum heavy
+sweden-S18_EMIL_1951_E1, drum heavy
+sweden-S19_Sav_M43,destroyer
+sweden-S20_Ikv_72, destroyer
+sweden-S21_UDES_03, destroyer
+sweden-S22_Strv_S1, destroyer premium
+sweden-S22_Strv_S1_FL,destroyer premium
+sweden-S23_Strv_81, medium premium
+sweden-S23_Strv_81_sabaton, medium premium
+sweden-S25_EMIL_51, drum heavy premium
+sweden-S26_Lansen_C, medium premium
+sweden-S27_UDES_16, medium
+sweden-S27_UDES_16_HELL, medium
+sweden-S28_UDES_15_16, medium
+sweden-S29_UDES_14_5, medium
+sweden-S29_UDES_14_5_HELL, medium
+sweden-S30_UDES_03_Alt_3,medium premium
+sweden-S31_Strv_K,heavy premium
+sweden-S32_Bofors_Tornvagn,heavy premium
+uk-GB01_Medium_Mark_I,medium
+uk-GB01_Medium_Mark_I_bot, medium premium
+uk-GB03_Cruiser_Mk_I, drum light
+uk-GB04_Valentine, light
+uk-GB05_Vickers_Medium_Mk_II,medium
+uk-GB05_Vickers_Medium_Mk_II_bot, medium premium
+uk-GB06_Vickers_Medium_Mk_III,medium
+uk-GB07_Matilda, medium
+uk-GB08_Churchill_I, heavy
+uk-GB08_Churchill_I_IGR, heavy
+uk-GB09_Churchill_VII, heavy
+uk-GB10_Black_Prince, heavy
+uk-GB100_Manticore, light
+uk-GB101_FV1066_Senlac, light premium
+uk-GB102_LHMTV, light
+uk-GB103_GSOR3301_AVR_FS, light
+uk-GB104_GSR_3301_Setter, light
+uk-GB105_Black_Prince_2019, heavy premium
+uk-GB106_Cobra,medium
+uk-GB107_Cavalier,medium
+uk-GB107_Cavalier_SH,medium premium
+uk-GB108_A46,light premium
+uk-GB109_GSOR_1008,drum destroyer premium
+uk-GB11_Caernarvon, heavy
+uk-GB11_Caernarvon_IGR, heavy
+uk-GB111_Charlemagne,heavy premium
+uk-GB112_Caliban, drum heavy premium
+uk-GB113_Matilda_LVT,medium premium
+uk-GB12_Conqueror_FL,heavy premium
+uk-GB12_Conqueror, heavy
+uk-GB13_FV215b, heavy premium
+uk-GB13_FV215b_IGR, heavy premium 
+uk-GB14_M2, light
+uk-GB15_Stuart_I, light
+uk-GB17_Grant_I, medium
+uk-GB19_Sherman_Firefly, medium
+uk-GB19_Sherman_Firefly_MapsTraining_Dummy_MT_2,medium
+uk-GB20_Crusader, light
+uk-GB21_Cromwell, medium
+uk-GB21_Cromwell_IGR, medium
+uk-GB22_Comet, medium
+uk-GB23_Centurion, medium
+uk-GB23_Centurion_IGR, medium
+uk-GB24_Centurion_Mk3, medium
+uk-GB24_Centurion_Mk3_Halloween_event, medium
+uk-GB25_Loyd_Gun_Carriage, artillery
+uk-GB26_Birch_Gun, artillery
+uk-GB27_Sexton, artillery
+uk-GB28_Bishop, artillery
+uk-GB29_Crusader_5inch, artillery
+uk-GB30_FV3805, artillery
+uk-GB31_Conqueror_Gun, artillery
+uk-GB32_Tortoise,destroyer
+uk-GB33_Sentinel_AC_I, medium premium
+uk-GB35_Sentinel_AC_IV, medium premium
+uk-GB37_Valliant,medium premium
+uk-GB39_Universal_CarrierQF2,destroyer
+uk-GB40_Gun_Carrier_Churchill, destroyer
+uk-GB41_Challenger, destroyer
+uk-GB42_Valentine_AT, destroyer
+uk-GB44_Archer, destroyer
+uk-GB45_Achilles_IIC, destroyer
+uk-GB48_FV215b_183, destroyer premium
+uk-GB50_Sherman_III, medium
+uk-GB51_Excelsior, heavy premium
+uk-GB52_A45,heavy premium
+uk-GB57_Alecto,destroyer
+uk-GB58_Cruiser_Mk_III, drum light
+uk-GB59_Cruiser_Mk_IV, drum light
+uk-GB60_Covenanter, light
+uk-GB63_TOG_II, heavy premium
+uk-GB68_Matilda_Black_Prince, medium premium
+uk-GB69_Cruiser_Mk_II, drum light
+uk-GB70_FV4202_105, medium
+uk-GB70_N_FV4202_105, medium premium
+uk-GB70_N_FV4202_105_FL, medium premium
+uk-GB71_AT_15A,destroyer premium
+uk-GB72_AT15,destroyer
+uk-GB72_AT15_IGR, destroyer
+uk-GB73_AT2, destroyer
+uk-GB74_AT8, destroyer
+uk-GB75_AT7, destroyer
+uk-GB76_Mk_VIC, drum light
+uk-GB77_FV304, artillery
+uk-GB77_FV304_IGR, artillery
+uk-GB78_Sexton_I, artillery premium
+uk-GB79_FV206, artillery
+uk-GB80_Charioteer, destroyer
+uk-GB81_FV4004, destroyer
+uk-GB81_FV4004_HELL, destroyer
+uk-GB83_FV4005, destroyer
+uk-GB83_FV4005_HELL, destroyer
+uk-GB84_Chieftain_Mk6, heavy premium
+uk-GB85_Cromwell_Berlin, medium premium
+uk-GB86_Centurion_Action_X, medium
+uk-GB87_Chieftain_T95_turret, medium premium
+uk-GB88_T95_Chieftain_turret, heavy premium
+uk-GB91_Super_Conqueror, heavy
+uk-GB92_FV217, destroyer
+uk-GB93_Caernarvon_AX, heavy premium
+uk-GB94_Centurion_Mk5-1_RAAC, medium premium
+uk-GB95_Ekins_Firefly_M4A4, medium premium
+uk-GB96_Excalibur, destroyer premium
+uk-GB97_Chimera, medium premium
+uk-GB98_T95_FV4201_Chieftain, heavy premium
+uk-GB99_Turtle_Mk1,destroyer premium
+usa-A01_T1_Cunningham, drum light
+usa-A01_T1_Cunningham_bot, drum light premium
+usa-A02_M2_lt, drum light
+usa-A03_M3_Stuart, light
+usa-A03_M3_Stuart_bootcamp, drum light premium
+usa-A04_M3_Grant, medium
+usa-A05_M4_Sherman, medium
+usa-A05_M4_Sherman_IGR, medium
+usa-A06_M4A3E8_Sherman, medium
+usa-A06_M4A3E8_Sherman_training, medium premium
+usa-A07_T20, medium
+usa-A08_T23, Drum medium
+usa-A09_T1_hvy, heavy
+usa-A10_M6, heavy
+usa-A100_T49, light
+usa-A100_T49_Halloween_event, light
+usa-A101_M56, destroyer premium
+usa-A102_T28_concept, destroyer premium
+usa-A103_T71E1, Drum light
+usa-A103_T71E1_IGR, Drum light
+usa-A104_M4A3E8A, medium premium
+usa-A106_M48A2_120, medium premium
+usa-A107_T1_HMC, artillery
+usa-A108_T18_HMC, artillery
+usa-A109_T56_GMC, destroyer
+usa-A11_T29, heavy
+usa-A11_T29_IGR, heavy
+usa-A111_T25_Pilot, medium premium
+usa-A112_T71E2, light premium
+usa-A112_T71E2R, light
+usa-A115_Chrysler_K, heavy premium
+usa-A115_Chrysler_K_GF, heavy premium
+usa-A116_XM551, light
+usa-A117_T26E5, heavy premium
+usa-A117_T26E5_FL, heavy premium
+usa-A117_T26E5_Patriot, heavy premium
+usa-A118_M4_Thunderbolt, medium premium
+usa-A12_T32, heavy
+usa-A12_T32_FL,heavy premium
+usa-A12_T32_HW_bot,heavy premium
+usa-A120_M48A5, medium
+usa-A120_M48A5_IGR,medium
+usa-A121_M26_Cologne, medium premium
+usa-A122_TS-5,destroyer premium
+usa-A123_T78,destroyer premium
+usa-A124_T54E2,heavy premium
+usa-A125_AEP_1,heavy premium
+usa-A126_PzVI_Tiger_II_capt,heavy premium
+usa-A127_TL_1_LPC,medium premium
+usa-A128_concept_1b,heavy premium
+usa-A129_T6_medium,medium
+usa-A129_T6_medium_MapsTraining_Dummy_MT_1,medium
+usa-A13_T34_hvy, heavy premium
+usa-A13_T34_hvy_FL, heavy premium
+usa-A13_T34_hvy_BF, heavy premium
+usa-A13_T34_hvy_IGR, heavy premium
+usa-A130_Super_Hellcat,destroyer premium
+usa-A132_T77, drum heavy premium
+usa-A134_M24E2_SuperChaffee,light
+usa-A136_T42,medium premium
+usa-A14_T30, destroyer
+usa-A14_T30_FL,destroyer premium
+usa-A14_T30_HELL,destroyer
+usa-A140_ASTRON_REX_105mm, drum medium premium
+usa-A141_M_IV_Y,heavy premium
+usa-A148_Convertible_Medium_Tank_T3, drum medium premium
+usa-A15_T57, drum artillery
+usa-A16_M7_Priest, artillery
+usa-A17_M37, artillery
+usa-A18_M41, artillery
+usa-A19_T2_lt, Drum light premium
+usa-A21_T14, heavy premium
+usa-A21_T14_MapsTraining_Player_HT_1,heavy
+usa-A22_M5_Stuart, drum light
+usa-A22_M5_Stuart_bootcamp, light premium
+usa-A23_M7_med, light
+usa-A24_T2_med, drum medium
+usa-A24_T2_med_bot, medium premium
+usa-A25_M2_med, medium
+usa-A25_M2_med_bootcamp, medium premium
+usa-A26_T18, drum destroyer
+usa-A27_T82, artillery
+usa-A29_T40, destroyer
+usa-A30_M10_Wolverine, destroyer
+usa-A31_M36_Slagger, destroyer
+usa-A32_M12, artillery
+usa-A33_MTLS-1G14, drum light premium
+usa-A34_M24_Chaffee, light
+usa-A35_Pershing, medium
+usa-A35_Pershing_HELL, medium
+usa-A35_Pershing_IGR, medium
+usa-A36_Sherman_Jumbo, medium
+usa-A36_Sherman_Jumbo_bootcamp, medium premium
+usa-A36_Sherman_Jumbo_HELL, medium
+usa-A36_Sherman_Jumbo_IGR, medium
+usa-A37_M40M43, artillery
+usa-A38_T92, artillery
+usa-A39_T28, destroyer
+usa-A40_T95, destroyer
+usa-A41_M18_Hellcat, destroyer
+usa-A43_M22_Locust, light premium
+usa-A44_M4A2E4, medium premium
+usa-A45_M6A2E1, heavy premium
+usa-A46_T3, destroyer
+usa-A57_M8A1, destroyer
+usa-A58_T67, destroyer
+usa-A58_T67_IGR, destroyer
+usa-A62_Ram-II, medium premium
+usa-A63_M46_Patton, medium
+usa-A63_M46_Patton_FL,medium premium
+usa-A63_M46_Patton_HALL,medium
+usa-A63_M46_Patton_KR, medium premium
+usa-A64_T25_AT, destroyer
+usa-A66_M103,heavy
+usa-A66_M103_Halloween_event,heavy
+usa-A66_M103_HW_bot,heavy
+usa-A67_T57_58, Drum heavy
+usa-A68_T28_Prototype, destroyer
+usa-A68_T28_Prototype_HELL,destroyer
+usa-A69_T110E5, heavy
+usa-A69_T110E5_bob,heavy premium
+usa-A69_T110E5_cl,heavy premium
+usa-A69_T110E5_HW_bot,heavy
+usa-A71_T21, light
+usa-A71_T21_MapsTraining_Dummy_LT_2,light
+usa-A72_T25_2, destroyer
+usa-A72_T25_2_SH, medium premium
+usa-A74_T1_E6, drum light premium
+usa-A78_M4_Improved, medium premium
+usa-A80_T26_E4_SuperPershing, medium premium
+usa-A80_T26_E4_SuperPershing_FL, medium premium
+usa-A81_T95_E2, medium premium
+usa-A83_T110E4, destroyer
+usa-A85_T110E3, destroyer
+usa-A86_T23E3, medium premium
+usa-A87_M44, artillery
+usa-A88_M53_55, artillery
+usa-A89_T54E1, Drum heavy
+usa-A90_T69, Drum medium
+usa-A90_T69_IGR, Drum medium
+usa-A92_M60, medium premium
+usa-A93_T7_Combat_Car, drum light premium
+usa-A94_T37, light
+usa-A95_T95_E6, medium premium
+usa-A97_M41_Bulldog, light
+usa-A99_T92_LT, light premium
+ussr-Observer, Observer
+ussr-R01_IS, heavy
+ussr-R02_SU-85, destroyer
+ussr-R03_BT-7, light
+ussr-R03_BT-7_bootcamp, light premium
+ussr-R04_T-34, medium
+ussr-R04_T-34_MapsTraining_Player_MT_1,medium
+ussr-R05_KV, heavy
+ussr-R06_T-28, medium
+ussr-R06_T-28_bootcamp, medium premium
+ussr-R07_T-34-85, medium
+ussr-R07_T-34-85_bootcamp, medium premium
+ussr-R07_T-34-85_training, medium premium
+ussr-R08_BT-2, light
+ussr-R08_BT-2_bootcamp, light premium
+ussr-R09_T-26, light
+ussr-R09_T-26_bot, light premium
+ussr-R10_AT-1, destroyer
+ussr-R100_SU122A, artillery
+ussr-R101_MT25, light
+ussr-R104_Object_430_II, medium
+ussr-R105_BT_7A, light premium
+ussr-R106_KV85, heavy
+ussr-R106_KV85_IGR, heavy
+ussr-R107_LTB, light
+ussr-R108_T34_85M, medium premium
+ussr-R109_T54S, light
+ussr-R11_MS-1, light
+ussr-R11_MS-1_bot, light premium
+ussr-R110_Object_260, heavy premium
+ussr-R111_ISU130, destroyer premium
+ussr-R112_T54_45, medium premium
+ussr-R112_T54_45_FL, medium premium
+ussr-R113_Object_730, heavy premium
+ussr-R114_Object_244, heavy premium
+ussr-R115_IS-3_auto, drum heavy premium
+ussr-R115_IS-3_auto_test, drum heavy
+ussr-R116_ISU122C_Berlin, destroyer premium
+ussr-R117_T34_85_Rudy, medium premium
+ussr-R118_T28_F30, medium premium
+ussr-R119_Object_777, heavy premium
+ussr-R119_Object_777C, heavy premium
+ussr-R12_A-20, drum light
+ussr-R120_T22SR_A22, medium premium
+ussr-R121_KV4_KTT, destroyer premium
+ussr-R122_T44_100, medium premium
+ussr-R122_T44_100B, medium premium
+ussr-R123_Kirovets_1, heavy premium
+ussr-R125_T_45, light premium
+ussr-R126_Object_730_5, destroyer premium
+ussr-R127_T44_100_M, medium premium
+ussr-R127_T44_100_P, medium premium
+ussr-R127_T44_100_K, medium premium
+ussr-R127_T44_100_U, medium premium
+ussr-R128_KV4_Kreslavskiy, heavy premium
+ussr-R129_Object_257, heavy premium
+ussr-R13_KV-1s, heavy
+ussr-R131_Tank_Gavalov, light
+ussr-R132_VNII_100LT, light
+ussr-R133_KV_122, heavy premium
+ussr-R134_Object_252U, heavy premium
+ussr-R134_Object_252K, heavy premium
+ussr-R135_T_103,destroyer premium
+ussr-R139_IS_M, heavy
+ussr-R14_SU-5, artillery
+ussr-R14_SU-5_MapsTraining_Dummy_SPG_1,artillery
+ussr-R140_M4_Loza, medium premium
+ussr-R143_T_29, medium premium
+ussr-R144_K_91, medium
+ussr-R145_Object_705_A, heavy
+ussr-R146_STG, medium premium
+ussr-R146_STG_Tday, medium premium
+ussr-R148_Object_430_U,medium
+ussr-R149_Object_268_4,destroyer
+ussr-R15_S-51, artillery
+ussr-R151_Object_257_2,heavy
+ussr-R152_KV2_W,heavy premium
+ussr-R153_Object_705,heavy
+ussr-R154_T_34E_1943,medium premium
+ussr-R155_Object_277,heavy
+ussr-R155_Object_277_bob,heavy premium
+ussr-R156_IS_2M,heavy premium
+ussr-R157_Object_279R,heavy premium
+ussr-R158_LT_432,light premium
+ussr-R159_SU_130PM,destroyer premium
+ussr-R16_SU-18, artillery
+ussr-R160_T_50_2,light premium
+ussr-R161_T_116,light premium
+ussr-R165_Object_703_II, heavy premium
+ussr-R165_Object_703_II_2, heavy premium
+ussr-R169_ST_II, heavy
+ussr-R17_SU-100, destroyer
+ussr-R170_IS_2_II, heavy
+ussr-R171_IS_3_II, heavy
+ussr-R171_IS_3_II_hw21,heavy
+ussr-R172_Object_752, drum heavy premium
+ussr-R173_K_91_2,medium premium
+ussr-R174_BT-5,light
+ussr-R175_IS_2_screen,heavy premium
+ussr-R177_ISU_152K_BL10,destroyer premium
+ussr-R178_Object_780,heavy premium
+ussr-R18_SU-152, destroyer
+ussr-R18_SU-152_IGR, destroyer
+ussr-R180_Object_274_A,medium premium
+ussr-R183_K_91_PT,destroyer premium
+ussr-R185_T_34_L_11_1941,medium premium
+ussr-R186_KV_1_Screened,heavy premium
+ussr-R187_Object_590, drum medium premium
+ussr-R19_IS-3, heavy
+ussr-R19_IS-3_IGR, heavy
+ussr-R193_M4A2_T_34,medium premium
+ussr-R20_T-44, medium
+ussr-R20_T-44_FL, medium premium
+ussr-R20_T-44_IGR, medium
+ussr-R22_T-46, drum light
+ussr-R22_T-46_bootcamp, light premium
+ussr-R23_T-43, medium
+ussr-R23_T-43_MapsTraining_Player_MT_2,medium
+ussr-R24_SU-76, destroyer
+ussr-R25_GAZ-74b, destroyer
+ussr-R26_SU-8, artillery
+ussr-R27_SU-14, artillery
+ussr-R31_Valentine_LL, light premium
+ussr-R31_Valentine_LL_IGR, light premium
+ussr-R32_Matilda_II_LL, medium premium
+ussr-R33_Churchill_LL, heavy premium
+ussr-R34_BT-SV, light premium
+ussr-R38_KV-220, heavy premium
+ussr-R38_KV-220_beta, heavy premium
+ussr-R39_KV-3, heavy
+ussr-R40_T-54, medium
+ussr-R40_T-54_FL,medium premium
+ussr-R40_T-54_Halloween_event,medium
+ussr-R41_T-50, light
+ussr-R42_T-60, light
+ussr-R43_T-70, light
+ussr-R43_T-70_bootcamp, light premium
+ussr-R44_T80, drum light
+ussr-R44_T80_MapsTraining_Dummy_LT_1,drum light
+ussr-R45_IS-7, heavy
+ussr-R45_IS-7_fallout, heavy premium
+ussr-R45_IS-7_IGR, heavy
+ussr-R46_KV-13, medium
+ussr-R46_KV-13_SH,medium premium
+ussr-R47_ISU-152, destroyer
+ussr-R47_ISU-152_IGR, destroyer
+ussr-R49_SU100Y, destroyer premium
+ussr-R50_SU76I, destroyer premium
+ussr-R50_SU76I_bootcamp, destroyer premium
+ussr-R51_Object_212, artillery
+ussr-R52_Object_261, artillery
+ussr-R53_Object_704, destroyer
+ussr-R54_KV-5, heavy premium
+ussr-R54_KV-5_IGR, heavy premium
+ussr-R56_T-127, light premium
+ussr-R57_A43, medium
+ussr-R58_SU-101, destroyer
+ussr-R59_A44, medium
+ussr-R60_Object416, medium
+ussr-R61_Object252, heavy premium
+ussr-R61_Object252_FL, heavy premium
+ussr-R61_Object252_BF, heavy premium
+ussr-R63_ST_I, heavy
+ussr-R66_SU-26, artillery
+ussr-R67_M3_LL, light premium
+ussr-R68_A-32, medium premium
+ussr-R70_T_50_2, light
+ussr-R71_IS_2B, heavy premium
+ussr-R72_T150, heavy
+ussr-R72_T150_MapsTraining_Dummy_HT_2,heavy
+ussr-R73_KV4, heavy
+ussr-R74_SU100M1, destroyer
+ussr-R75_SU122_54, destroyer
+ussr-R77_KV2, heavy
+ussr-R77_KV2_IGR, heavy
+ussr-R77_KV2_turret_2,heavy
+ussr-R78_SU_85I, destroyer premium
+ussr-R80_KV1, heavy
+ussr-R81_IS8, heavy
+ussr-R84_Tetrarch_LL, light premium
+ussr-R86_LTP, light premium
+ussr-R86_LTP_bootcamp, light premium
+ussr-R87_T62A, medium
+ussr-R87_T62A_fallout, medium premium
+ussr-R88_Object268, destroyer
+ussr-R89_SU122_44, destroyer premium
+ussr-R90_IS_4M, heavy
+ussr-R91_SU14_1, artillery
+ussr-R93_Object263, destroyer
+ussr-R93_Object263B, destroyer
+ussr-R95_Object_907, medium premium
+ussr-R95_Object_907A, medium premium
+ussr-R96_Object_430, medium
+ussr-R96_Object_430B, medium
+ussr-R97_Object_140, medium
+ussr-R97_Object_140_cl, medium premium
+ussr-R98_T44_85, medium premium
+ussr-R98_T44_85M, light premium
+ussr-R99_T44_122, medium premium
+noImage,noImage
+unknown,unknown
