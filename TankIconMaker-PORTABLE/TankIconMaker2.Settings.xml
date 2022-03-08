@@ -92,7 +92,7 @@
   </GameInstallations>
   <ActiveInstallation ref="0" />
   <Styles>
-    <item>
+    <item refid="1">
       <Name>elektrosmoker_carousel_GoldPrem-PurpleSpecial-BlueCollect</Name>
       <Author>elektrosmoker</Author>
       <SavedByVersion>64</SavedByVersion>
@@ -1523,7 +1523,7 @@
       </Layers>
       <ForumLink null="1" />
     </item>
-    <item refid="1">
+    <item>
       <Name>Golden Premium Tanks at Caroussel (v1)</Name>
       <Author>Aslain</Author>
       <SavedByVersion>64</SavedByVersion>
